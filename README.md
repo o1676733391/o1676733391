@@ -5,40 +5,37 @@ I am a passionate **AI Engineer** based in Da Nang, Vietnam. My focus is buildin
 
 ---
 
-## About Me
-- **Education**: Final-year student majoring in AI & Data Science at **Vietnam - Korea University of Information and Communication Technology (VKU)**.
-- **Current Role**: AI Engineer at **AZVision** & **INNOVATA**, optimizing RAG pipelines and AI-powered security software.
-- **Research**: R&D Engineer at **eSTI Digital Science and Technology Institute**, focusing on agricultural digital transformation.
-- **Objective**: Solving complex real-world challenges through innovative AI architectures.
+## <img src="assets/icons/rocket.svg" width="18" height="18" alt="About" /> About Me
+- <img src="assets/icons/mortar-board.svg" width="16" height="16" alt="Education" /> **Education**: Final-year student majoring in AI & Data Science at **Vietnam - Korea University of Information and Communication Technology (VKU)**.
+- <img src="assets/icons/briefcase.svg" width="16" height="16" alt="Role" /> **Current Role**: AI Engineer at **AZVision** & **INNOVATA**, optimizing RAG pipelines and AI-powered security software.
+- <img src="assets/icons/beaker.svg" width="16" height="16" alt="Research" /> **Research**: R&D Engineer at **eSTI Digital Science and Technology Institute**, focusing on agricultural digital transformation.
+- <img src="assets/icons/target.svg" width="16" height="16" alt="Objective" /> **Objective**: Solving complex real-world challenges through innovative AI architectures.
 
 ---
 
-## AI Focus (Core Stack)
-- **Languages**: Python (Advanced), SQL
-- **Deep Learning / ML**: PyTorch, TensorFlow, Keras, Scikit-learn
-- **LLMs & RAG**: LangChain, Vector DBs, AI Agents, GraphRAG
-- **Computer Vision**: OpenCV, Object Detection
-- **MLOps / Deployment**: AWS, Docker, Git/GitHub, n8n Automation
-- **Databases (for AI apps)**: PostgreSQL, MySQL, MongoDB
+## <img src="assets/icons/cpu.svg" width="18" height="18" alt="Core" /> AI Focus (Core Stack)
+- <img src="assets/icons/code.svg" width="16" height="16" alt="Languages" /> **Languages**: Python (Advanced), SQL
+- <img src="assets/icons/graph.svg" width="16" height="16" alt="ML" /> **Deep Learning / ML**: PyTorch, TensorFlow, Keras, Scikit-learn
+- <img src="assets/icons/hubot.svg" width="16" height="16" alt="LLM" /> **LLMs & RAG**: LangChain, Vector DBs, AI Agents, GraphRAG
+- <img src="assets/icons/device-camera.svg" width="16" height="16" alt="CV" /> **Computer Vision**: OpenCV, Object Detection
+- <img src="assets/icons/cloud.svg" width="16" height="16" alt="MLOps" /> **MLOps / Deployment**: AWS, Docker, Git/GitHub, n8n Automation
+- <img src="assets/icons/database.svg" width="16" height="16" alt="DB" /> **Databases (for AI apps)**: PostgreSQL, MySQL, MongoDB
 
 ---
 
-## Featured AI Projects
+## <img src="assets/icons/star.svg" width="18" height="18" alt="Projects" /> Featured AI Projects
 
-### Coffee Leaf Disease Detection (Dataset)
-Link: https://www.kaggle.com/datasets/phmvnngcvinh/6-classes-cfl-v4/data  
+### <img src="assets/icons/beaker.svg" width="18" height="18" alt="Dataset" /> [Coffee Leaf Disease Detection (Dataset)](https://www.kaggle.com/datasets/phmvnngcvinh/6-classes-cfl-v4/data)
 - **Context**: Smart agriculture / coffee leaf disease detection.
 - **Tech**: Python, Deep Learning, Self-supervised Learning
 - **Result**: Two-stage architecture achieving **~94% accuracy** in detecting 4 common diseases.
 
-### HIRAG Webcrawler & AI Agents
-Link: https://github.com/o1676733391/hirag-webcrawler  
+### <img src="assets/icons/repo.svg" width="18" height="18" alt="Repo" /> [HIRAG Webcrawler & AI Agents](https://github.com/o1676733391/hirag-webcrawler)
 - **Context**: Component for advanced RAG systems.
 - **Tech**: Python, LangChain, LLMs, VectorDB
 - **Result**: Automated pipeline to extract/ingest unstructured data and optimize chunking + embeddings for higher-quality LLM responses.
 
-### VPBank Technology Hackathon: Young Talent (Certification)
-Link: https://www.linkedin.com/in/vinh-pham-a53291144/overlay/Certifications/399750140/treasury/?profileId=ACoAACLsvZ8B2ge09xs9b_Ogew6bfVZJiSQQgeI  
+### <img src="assets/icons/verified.svg" width="18" height="18" alt="Certificate" /> [VPBank Technology Hackathon: Young Talent (Certification)](https://www.linkedin.com/in/vinh-pham-a53291144/overlay/Certifications/399750140/treasury/?profileId=ACoAACLsvZ8B2ge09xs9b_Ogew6bfVZJiSQQgeI)
 - **Role**: AI Engineer / Backend Integration
 - **Tech**: AWS, Python, RESTful APIs, RAG
 - **Result**: Built AI Agents capable of processing natural language queries via LLMs.
@@ -52,7 +49,7 @@ Link: https://www.linkedin.com/in/vinh-pham-a53291144/overlay/Certifications/399
 
 ---
 
-## Connect with me
+## <img src="assets/icons/mail.svg" width="18" height="18" alt="Contact" /> Connect with me
 - **Email**: vinhphamvn02@gmail.com
 - **Phone**: +84 376 733 391
 - **Location**: Da Nang City, Vietnam
