@@ -1,14 +1,14 @@
-# Project Title
+# Profile README
 
-Description of the project goes here.
+Welcome to my profile! Here are some useful links:
+
+- [HIRAG](https://github.com/o1676733391/hirag-webcrawler)  
+- [Coffee leaf](https://www.kaggle.com/datasets/phmvnngcvinh/6-classes-cfl-v4/data)  
+- [VPBank](https://www.linkedin.com/in/vinh-pham-a53291144/overlay/Certifications/399750140/treasury/?profileId=ACoAACLsvZ8B2ge09xs9b_Ogew6bfVZJiSQQgeI)
 
 ## Icons
 
-- ![icon1](https://raw.githubusercontent.com/github/octicons/master/icons/icon1.svg)
-- ![icon2](https://raw.githubusercontent.com/github/octicons/master/icons/icon2.svg)
+- ![Example Icon](https://raw.githubusercontent.com/primer/octicons/main/icons/example-16.svg)
+- ![Another Icon](https://raw.githubusercontent.com/primer/octicons/main/icons/another-example-16.svg)  
 
-## Links
-
-- Repository: [o1676733391](https://github.com/o1676733391)
-- Other project link: [Project Link](https://github.com/o1676733391)
-
+Please explore these links and get to know more about my work!
