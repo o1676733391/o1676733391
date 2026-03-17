@@ -16,12 +16,11 @@ ATTRS = {
 PATH_TAG_RE = re.compile(r"<path\b[^>]*?>")
 
 def upsert_attr(tag: str, key: str, value: str) -> str:
-    # If attribute exists, replace it; otherwise insert it before the closing >
+    # If attribute exists, replace it; otherwise append it to the tag body.
     attr_re = re.compile(rf'(\s{re.escape(key)}=)(["\']).*?\2')
     if attr_re.search(tag):
         return attr_re.sub(rf' {key}="{value}"', tag)
-    # Insert before final '>' (or '/>')
-    return tag[:-1] + f' {key}="{value}">'
+    return tag + f' {key}="{value}"'
 
 def main():
     if not ICON_DIR.exists():
@@ -36,10 +35,13 @@ def main():
 
         def repl(match):
             tag = match.group(0)
+            # Normalize to tag body without closing characters so we can rebuild safely.
+            tag = re.sub(r'\s*/?>\s*$', '', tag)
             # Don’t touch clipPath, etc. (we only match <path>)
             for k, v in ATTRS.items():
                 tag = upsert_attr(tag, k, v)
-            return tag
+            # Always emit valid self-closing path tags.
+            return tag + "/>"
 
         new_text = PATH_TAG_RE.sub(repl, text)
 
