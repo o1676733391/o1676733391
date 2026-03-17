@@ -1,39 +1,58 @@
-## Hi there 👋
+# Hi there, I'm PHAM VAN NGOC VINH 👋
+### AI Engineer | R&D Enthusiast | Final-year Student @ VKU
 
-I'm a developer passionate about **data engineering**, **AI/RAG pipelines**, and **Web3/blockchain** applications.
-
-### 🔭 What I'm working on
-
-- 🕷️ **[hirag-webcrawler](https://github.com/o1676733391/hirag-webcrawler)** — A 3-step web crawling pipeline (link discovery → markdown extraction → LLM normalization) that produces structured corpora for RAG (Retrieval-Augmented Generation) systems.
-- 🎟️ **[nft-ticket](https://github.com/o1676733391/nft-ticket)** — A decentralized NFT ticketing platform with a marketplace, QR check-in, and Web3 auth (SIWE). Built with Solidity, Next.js, Supabase, and React Native.
-- 📊 **[crypto-data](https://github.com/o1676733391/crypto-data)** — Cryptocurrency data collection and analysis in Python.
-
-### 🛠️ Tech Stack
-
-**Languages:** Python · TypeScript · JavaScript · Solidity
-
-**Domains:**
-- 🤖 AI / LLM / RAG pipelines
-- ⛓️ Blockchain / Web3 / Smart Contracts
-- 🗄️ Data engineering & processing
-- 🌐 Full-stack web (Next.js, React Native, Supabase)
-
-### 🌱 I'm currently learning
-
-- Advanced RAG architectures and vector database integrations
-- Account abstraction (ERC-4337) and DeFi protocols
-- Scalable data pipeline design
-
-### 💬 Ask me about
-
-Web crawling, building RAG pipelines, NFT systems, or blockchain development.
+[cite_start]I am a passionate **AI Engineer** based in Da Nang, Vietnam[cite: 1, 2, 3]. [cite_start]My expertise lies in building intelligent, scalable solutions using **Deep Learning**, **Computer Vision**, and advanced **RAG (Retrieval-Augmented Generation)** techniques[cite: 6, 12, 14].
 
 ---
 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Solidity](https://img.shields.io/badge/-Solidity-363636?style=flat-square&logo=solidity&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Supabase](https://img.shields.io/badge/-Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+## 🚀 About Me
+- [cite_start]🎓 **Education**: Final-year student majoring in AI & Data Science at **Vietnam - Korea University of Information and Communication Technology (VKU)**[cite: 43, 44, 46].
+- [cite_start]💼 **Current Role**: AI Engineer at **AZVision** & **INNOVATA**, optimizing RAG pipelines and AI-powered security software[cite: 49, 50, 51, 52, 53].
+- [cite_start]🔬 **Research**: R&D Engineer at **eSTI Digital Science and Technology Institute**, focusing on agricultural digital transformation[cite: 54, 55, 57].
+- [cite_start]🎯 **Objective**: Solving complex real-world challenges through innovative AI architectures[cite: 7].
+
+---
+
+## 🛠️ Tech Stack
+| Category | Tools & Technologies |
+| :--- | :--- |
+| **Languages** | [cite_start]Python (Advanced), Java, SQL [cite: 10] |
+| **AI/ML** | [cite_start]PyTorch, TensorFlow, Keras, Scikit-learn [cite: 12, 13] |
+| **LLMs & RAG** | [cite_start]LangChain, Vector DBs, AI Agents, GraphRAG [cite: 12, 17, 18, 33] |
+| **Computer Vision** | [cite_start]OpenCV, Frigate NVR, Object Detection [cite: 14] |
+| **Tools** | [cite_start]AWS, Docker, Git/GitHub, n8n Automation [cite: 18] |
+| **Databases** | [cite_start]MySQL, PostgreSQL, MongoDB [cite: 16, 17] |
+
+---
+
+## 🌟 Featured Projects
+
+### 🌿 [Self-supervised Colorization for Coffee Leaf Disease Detection](https://github.com/vinh-vku)
+* [cite_start]**Context**: Collaborative project with Kon Tum province for smart agriculture[cite: 20, 22].
+* [cite_start]**Tech**: Python, Deep Learning, Self-supervised Learning[cite: 23, 27].
+* [cite_start]**Achievement**: Developed a two-stage architecture achieving **~94% accuracy** in detecting 4 common diseases[cite: 25, 27].
+
+### 🤖 [HIRAG Webcrawler & AI Agents](https://github.com/vinh-vku)
+* [cite_start]**Context**: Integrated component for advanced RAG systems.
+* [cite_start]**Tech**: Python, LangChain, LLMs, VectorDB[cite: 36].
+* [cite_start]**Achievement**: Automated pipeline to extract and ingest unstructured data, optimizing document chunking and embeddings for high-accuracy LLM responses[cite: 39, 40].
+
+### 🏆 [VPBank Technology Hackathon: Young Talent](https://github.com/vinh-vku)
+* [cite_start]**Role**: AI Engineer / Backend Integration[cite: 29].
+* [cite_start]**Tech**: AWS, Python, RESTful APIs, RAG[cite: 30, 34].
+* [cite_start]**Achievement**: Architected AI Agents capable of processing natural language queries via advanced LLMs[cite: 33].
+
+---
+
+## 📈 My GitHub Stats
+![Vinh's GitHub stats](https://github-readme-stats.vercel.app/api?username=vinh-vku&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vinh-vku&layout=compact&theme=radical)
+
+---
+
+## 📫 Connect with me:
+- [cite_start]**Email**: vinhphamvn02@gmail.com [cite: 3]
+- [cite_start]**Phone**: +84 376 733 391 [cite: 4]
+- [cite_start]**Location**: Da Nang City, Vietnam [cite: 1]
+
+[cite_start]*"Leveraging AI to build a smarter, more scalable future."* [cite: 6]
